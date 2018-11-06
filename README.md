@@ -1,5 +1,6 @@
 # FiliP
-Tool zur Simulation der Pflegepersonaleinsatzplannung
+Tool zur Simulation der Pflegepersonaleinsatzplannung aus dem Projekt FiliP (Flexible und intelligente Pflegepersonalplanung für ein
+demografiefestes Krankenhaus)
 
 ## Tool Beschreibung
 
