@@ -25,7 +25,7 @@ Das FiliP-Tool besteht aus folgenden Komponenten:
 ## Kompatibilität
 Damit das FiliP-Tool funktioniert, muss auf dem Rechner eine funktionsfähige Version von OpenModelicainstalliert sein. (https://www.openmodelica.org/download/download-windows) Das FiliP-Modell wird bis Version 1.13.0 unterstützt. Bei neueren Versionen kann keine Garantie für die Funktionsfähigkeit gegeben werden.
 
-## License
+## Licens
 Dieses Tool und die Modelica-Bibliotheken sind freie Software und die Verwendung erfolgt vollständig auf eigenes Risiko.
 Es kann unter den Bedingungen ded. [3-clause BSD](https://www.modelica.org/licenses/modelica-3-clause-bsd) weitergegeben und/oder modifiziert werden.
 
