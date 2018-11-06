@@ -16,7 +16,7 @@ Das FiliP-Tool besteht aus folgenden Komponenten:
  * FiliP: Ordner wo alle Dateien des Simulationstools enthalten sind
    * Bibliothek: Modelica Biblitheken für das Tool.
    * Simulationsdiagramme: Ordner wo Ergebnisdiagramme abgespeichert werden.
-   * Simulationsergebnisse: Ordner wo Ergebnisdateine abgespeichert werden.
+   * Simulationsergebnisse: Ordner wo Ergebnisdateien abgespeichert werden.
    * FiliP-Excel: Excel-GUI zur nutzung der Modelica Modelle.
  * Handbuch: Wichtige Infos zur Benutzung und einrichtung des Tools
  * Schulungsaufgabe FiliP: Eine aufgabe um die wichtigsten Funktionen des Tools an einem "Mini"-Beispiel zu testen.
@@ -40,6 +40,8 @@ Es kann unter den Bedingungen ded. [3-clause BSD](https://www.modelica.org/licen
 * Christian Grebe
 * Timo Lask
 * Eva Trompetter
+* Paul Hammerschmidt
+* Marleen Schneidere
 
 ## Gefördert von
 Bundesministerium für Bildung und Forschung (BMBF) in der Förderlinie SILQUA-FH 2015
