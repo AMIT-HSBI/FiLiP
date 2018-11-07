@@ -27,7 +27,7 @@ Damit das FiliP-Tool funktioniert, muss auf dem Rechner eine funktionsfähige Ve
 
 ## Licens
 Dieses Tool und die Modelica-Bibliotheken sind freie Software und die Verwendung erfolgt vollständig auf eigenes Risiko.
-Es kann unter den Bedingungen ded. [3-clause BSD](https://www.modelica.org/licenses/modelica-3-clause-bsd) weitergegeben und/oder modifiziert werden.
+Es kann unter den Bedingungen der [3-clause BSD](https://www.modelica.org/licenses/modelica-3-clause-bsd) weitergegeben und/oder modifiziert werden.
 
 ## Entwickler
     Fachhochschule Bielefeld
