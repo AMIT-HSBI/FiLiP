@@ -37,6 +37,7 @@ Es kann unter den Bedingungen [3-clause BSD](https://www.modelica.org/licenses/m
     33619 Bielefeld
     Deutschland
 	Email: mathematik@fh-bielefeld.de
+	
 * Prof. Dr. med. Annette Nauerth
 * Prof. Dr. phil. Bernhard Bachmann
 * Prof. Dr. rer. pol. Hermann-Josef Kruse
@@ -45,6 +46,7 @@ Es kann unter den Bedingungen [3-clause BSD](https://www.modelica.org/licenses/m
 * Eva Trompetter, M.Sc.
 * Paul Hammerschmidt, B.Sc.
 * Marleen Schneider
+* Dipl.-Wirt.Math. Ralf Derdau
 
 ## Gefördert von Bundesministerium für Bildung und Forschung (BMBF) in der Förderlinie SILQUA-FH 2015
 
