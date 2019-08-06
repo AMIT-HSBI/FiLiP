@@ -38,6 +38,7 @@ Es kann unter den Bedingungen [3-clause BSD](https://www.modelica.org/licenses/m
     33619 Bielefeld
     Deutschland
 	Email: FiLiP@fh-bielefeld.de
+	WWW: https://www.fh-bielefeld.de/inbvg/projekte/versorgungsforschung/filip
 	
 * Prof. Dr. med. Annette Nauerth
 * Prof. Dr. phil. Bernhard Bachmann
