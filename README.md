@@ -6,7 +6,8 @@ Die Pflege im Krankenhaus ist in doppelter Hinsicht vom demografischen Wandel be
 
 Als ein wichtiger Baustein der betrieblichen Gesundheitsförderung sind alternative Arbeitsmodelle anerkannt. Bisher wurde allerdings kaum untersucht, wie solche Modelle gestaltet sein könnten, damit sie den Bedürfnissen der Pflegenden und denen der Patientinnen und Patienten gerecht werden.
 
-Das Projekt leistet hier einen konkreten Beitrag, in dem darin ein neuartiges Software-Tool entwickelt wird, das Kliniken bei einer effektiven und ressourcenschonenden Pflegepersonalplanung unterstützt. Die Entwicklung erfolgt durch Pflegewissenschaftler bzw. Pflegewissenschaftlerinnen und Mathematiker bzw. Mathematikerinnen, in Zusammenarbeit mit drei Kliniken. Grundlegend für das Tool ist eine Analyse der Bedarfe seitens der Kliniken, der Bedürfnisse der Pflegenden sowie des Pflegeaufwands. Aus den gewonnenen Erkenntnissen werden Mitarbeiter- bzw. Mitarbeiterinnen- und Patiententypen modelliert, die in ein mathematisches Modell übertragen werden, mit dem Simulationen möglich sind. Eine Klinik kann so z.B. eine Umstellung des Schichtsystems simulieren und das Ergebnis zur Entscheidungsfindung nutzen.
+Das Projekt FiliP leistete hier einen konkreten Beitrag, in dem darin der Prototyp eines neuartiges Software-Tool entwickelt wurde, das Kliniken bei einer effektiven und ressourcenschonenden Pflegepersonalplanung unterstützt. Die Entwicklung erfolgte durch Pflegewissenschaftler bzw. Pflegewissenschaftlerinnen und Mathematiker bzw. Mathematikerinnen, in Zusammenarbeit mit drei Kliniken. Grundlegend für das Tool war eine Analyse der Bedarfe seitens der Kliniken, der Bedürfnisse der Pflegenden sowie des Pflegeaufwands. Die gewonnenen Erkenntnisse wurden in ein mathematisches Modell übertragen werden, mit dem Simulationen möglich sind. Eine Klinik kann so z.B. eine Umstellung des Schichtsystems simulieren und das Ergebnis zur Entscheidungsfindung nutzen
+
 
 
 ## Tool-Beschreibung
@@ -36,7 +37,7 @@ Es kann unter den Bedingungen [3-clause BSD](https://www.modelica.org/licenses/m
     Interaktion 1
     33619 Bielefeld
     Deutschland
-	Email: mathematik@fh-bielefeld.de
+	Email: FiLiP@fh-bielefeld.de
 	
 * Prof. Dr. med. Annette Nauerth
 * Prof. Dr. phil. Bernhard Bachmann
